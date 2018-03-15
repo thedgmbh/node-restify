@@ -64,7 +64,7 @@
     "Yunong Xiao",
     "Zachary Snow"
   ],
-  "name": "restify",
+  "name": "@thed.io/restify",
   "homepage": "http://restifyjs.com",
   "description": "REST framework",
   "keywords": [
